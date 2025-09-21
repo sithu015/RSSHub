@@ -1860,6 +1860,9 @@
   "/crossbell/notes/source/:source": [
     "DIYgod"
   ],
+  "/crush/pages/:id": [
+    "Tsuyumi25"
+  ],
   "/cryptoslate/": [
     "pseudoyu"
   ],
@@ -8600,6 +8603,9 @@
   ],
   "/wikinews/latest": [
     "KotoriK"
+  ],
+  "/wikipedia/current-events/:includeToday?": [
+    "aavanian"
   ],
   "/windsurf/blog": [
     "nczitzk"
